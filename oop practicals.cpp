@@ -31,7 +31,7 @@ public:
 };
 
 int main() {
-    Account a1(450, "Hassan", 7500);  
+    Account a1(450, "Khizer", 7500);  
     a1.display();
 
     a1.deposit(1500);
