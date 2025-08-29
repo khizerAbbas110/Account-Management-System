@@ -23,11 +23,10 @@ public:
     }
 
     void display() {
-        cout << "-----------------------------" << endl;
+
         cout << "Account No : " << accountNo << endl;
         cout << "Holder     : " << holderName << endl;
         cout << "Balance    : " << balance << endl;
-        cout << "-----------------------------" << endl;
     }
 };
 
